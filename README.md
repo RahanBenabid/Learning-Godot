@@ -29,6 +29,3 @@ func _process(delta):
 ```
 
 $$E = mc^2$$
-
-
-haha i love $E = mc^2$
