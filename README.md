@@ -29,4 +29,6 @@ func _process(delta):
 ```
 
 $$E = mc^2$$
-# Learning-Godot
+
+
+haha i love $E = mc^2$
